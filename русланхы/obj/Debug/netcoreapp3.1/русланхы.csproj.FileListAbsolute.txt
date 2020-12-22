@@ -1,0 +1,4 @@
+C:\Users\Руслан\source\repos\русланхы\русланхы\obj\Debug\netcoreapp3.1\русланхы.csprojAssemblyReference.cache
+C:\Users\Руслан\source\repos\русланхы\русланхы\obj\Debug\netcoreapp3.1\русланхы.AssemblyInfoInputs.cache
+C:\Users\Руслан\source\repos\русланхы\русланхы\obj\Debug\netcoreapp3.1\русланхы.AssemblyInfo.cs
+C:\Users\Руслан\source\repos\русланхы\русланхы\obj\Debug\netcoreapp3.1\русланхы.csproj.CoreCompileInputs.cache
